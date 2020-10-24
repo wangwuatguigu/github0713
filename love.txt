@@ -3,3 +3,4 @@
 你是隔壁Java班的张三吗? from lisiatguigu
 我是最帅的，你愿意成为我的女友吗?from zhangsanatguigu
 放开那个女孩，这是我喜欢的女人。from wangwuatguigu
+测试ssh认证方式，不需要输入账号密码也能识别我是谁。
